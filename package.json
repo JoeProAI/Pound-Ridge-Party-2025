@@ -1,0 +1,25 @@
+{
+  "name": "pound-ridge-party-2025",
+  "version": "1.0.0",
+  "description": "Official campaign website for Pound Ridge Party 2025 - McCown for Supervisor, Avellino & Asaro for Town Board",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python -m http.server 3000",
+    "build": "echo 'Static site - no build required'",
+    "start": "python -m http.server 8000"
+  },
+  "keywords": [
+    "campaign",
+    "pound-ridge",
+    "election",
+    "local-government",
+    "fiscal-responsibility"
+  ],
+  "author": "Pound Ridge Party 2025",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pound-ridge-party/campaign-website"
+  },
+  "homepage": "https://poundridgeparty.com"
+}

@@ -5,7 +5,7 @@
   "main": "index.html",
   "scripts": {
     "dev": "python -m http.server 3000",
-    "build": "echo 'Files already in public directory'",
+    "build": "echo 'Static site ready for deployment'",
     "start": "python -m http.server 3000"
   },
   "keywords": [
